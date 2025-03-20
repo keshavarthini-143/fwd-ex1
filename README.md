@@ -75,8 +75,7 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 ~~~
 
 ## OUTPUT:
-
-![alt text](<../web/ex1.1 image.png>)
+![alt text](<ex1.1 image.png>)
 
 ![alt text](<ex1 image table.png>)
 
