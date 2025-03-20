@@ -1,5 +1,7 @@
 # EX01 Developing a Simple Webserver
 ## Date:20.03.2025
+## Name:Keshavarthini B
+## Reg.No.: 212224040158
 
 ## AIM:
 To develop a simple web server to serve HTML pages and display a structured table containing user details.
@@ -18,6 +20,7 @@ Implementation using Python code.
 Import the necessary modules.
 
 ### Step 5:
+
 Define a custom request handler.
 
 ### Step 6:
@@ -75,7 +78,7 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ![alt text](<../web/ex1.1 image.png>)
 
-![alt text](<../web/ex1 image table.png>)
+![alt text](<ex1 image table.png>)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
